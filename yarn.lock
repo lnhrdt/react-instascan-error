@@ -6729,7 +6729,7 @@ promise@^7.1.1:
   dependencies:
     asap "~2.0.3"
 
-prop-types@^15.6.0, prop-types@^15.6.1:
+prop-types@^15.6.0:
   version "15.6.1"
   resolved "https://registry.yarnpkg.com/prop-types/-/prop-types-15.6.1.tgz#36644453564255ddda391191fb3a125cbdf654ca"
   dependencies:
@@ -6912,12 +6912,6 @@ react-dom@^16.4.0:
 react-error-overlay@5.0.0-next.66cc7a90:
   version "5.0.0-next.66cc7a90"
   resolved "https://registry.yarnpkg.com/react-error-overlay/-/react-error-overlay-5.0.0-next.66cc7a90.tgz#68379b131ebe74112a12197504bfe7fa53119b3b"
-
-react-instascan@^0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/react-instascan/-/react-instascan-0.1.1.tgz#4e3ae929eb4964db8656a65aee87a9f693eb08fe"
-  dependencies:
-    prop-types "^15.6.1"
 
 react-scripts@2.0.0-next.66cc7a90:
   version "2.0.0-next.66cc7a90"
